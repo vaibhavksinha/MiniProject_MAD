@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057252143898",
+    "project_id": "stockpredcition",
+    "storage_bucket": "stockpredcition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057252143898:android:cae1b951a5f0a8d0ce72a3",
+        "android_client_info": {
+          "package_name": "com.example.projecttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057252143898-svadoikc4m9qqg2c0g5c4jg1cbsuipjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZWFHUD01n5HyiiAg1CD5OC5lYiF7lVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057252143898-svadoikc4m9qqg2c0g5c4jg1cbsuipjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
